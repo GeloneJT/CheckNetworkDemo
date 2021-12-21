@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CheckNetworkDemo</string>
+    <string name="check_connection">CHECK CONNECTION</string>
 </resources>
